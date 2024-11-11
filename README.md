@@ -1,6 +1,6 @@
 # Facebook Unfollow Automation
 
-This project contains JavaScript code for automating the process of unfollowing people on Facebook.
+This project contains JavaScript code to automate the process of unfollowing people on Facebook.
 
 ## Files
 - **openThreeDotMenu.js** - Opens the "three-dot" menu for each user you're following.
@@ -8,7 +8,7 @@ This project contains JavaScript code for automating the process of unfollowing 
 
 ## Usage
 
-1. Load each script in your browser’s console (sequentially if using separate files).
+1. Load each script in your browser’s console ( sequentially ).
 2. First, run `openThreeDotMenu.js` to open the menu.
 3. Then, run `unfollowAction.js` to unfollow each user.
    
